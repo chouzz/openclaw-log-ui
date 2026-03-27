@@ -1,4 +1,4 @@
-# OpenClaw Insight
+# OpenClaw Log UI
 
 A web application for analyzing and visualizing OpenClaw logs.
 
